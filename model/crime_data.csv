@@ -1,0 +1,501 @@
+,City,Latitude,Longitude,Day_of_Week,Hour,Crimes_Last_30_Days,Population_Density,Area_Type,Distance_to_Police_Station_km,Nearby_Facility,Year,Risk_levels
+0,Mumbai,19.076,72.8777,Tuesday,0,6,High,Residential,2.31,Unknown,2025,Medium Risk
+1,Mumbai,19.076,72.8777,Saturday,21,7,Low,Mixed,4.28,ATM,2025,Medium Risk
+2,Mumbai,19.076,72.8777,Monday,6,6,Medium,Mixed,6.06,Mall,2024,Medium Risk
+3,Kolkata,22.5726,88.3639,Thursday,22,7,Very High,Residential,4.55,School,2025,Medium Risk
+4,Delhi,28.6139,77.209,Saturday,5,7,Very High,Commercial,2.85,Bar,2024,Medium Risk
+5,Chennai,13.0827,80.2707,Tuesday,3,4,Low,Commercial,1.06,School,2025,low Risk
+6,Hyderabad,17.385,78.4867,Saturday,1,12,Very High,Mixed,1.34,Park,2025,High Risk
+7,Mumbai,19.076,72.8777,Monday,17,2,High,Mixed,6.22,School,2024,low Risk
+8,Kolkata,22.5726,88.3639,Friday,22,7,Low,Residential,6.65,School,2024,Medium Risk
+9,Mumbai,19.076,72.8777,Sunday,7,5,Low,Commercial,2.85,Unknown,2025,Medium Risk
+10,Chennai,13.0827,80.2707,Friday,5,7,High,Commercial,2.17,School,2024,Medium Risk
+11,Mumbai,19.076,72.8777,Sunday,19,6,Medium,Mixed,7.32,Bar,2025,Medium Risk
+12,Jaipur,26.9124,75.7873,Friday,12,10,High,Mixed,6.91,Bar,2024,High Risk
+13,Chennai,13.0827,80.2707,Saturday,1,3,Medium,Residential,8.07,Park,2024,low Risk
+14,Hyderabad,17.385,78.4867,Friday,2,6,Medium,Mixed,8.78,School,2024,Medium Risk
+15,Kolkata,22.5726,88.3639,Friday,20,12,Very High,Commercial,8.86,Unknown,2025,High Risk
+16,Jaipur,26.9124,75.7873,Friday,4,5,High,Residential,2.54,Mall,2025,Medium Risk
+17,Hyderabad,17.385,78.4867,Sunday,23,6,Very High,Mixed,4.05,Bar,2025,Medium Risk
+18,Bengaluru,12.9716,77.5946,Sunday,16,9,Very High,Residential,7.58,ATM,2025,Medium Risk
+19,Bengaluru,12.9716,77.5946,Monday,20,6,Medium,Mixed,4.28,ATM,2025,Medium Risk
+20,Pune,18.5204,73.8567,Wednesday,12,10,Very High,Mixed,2.59,Mall,2024,High Risk
+21,Delhi,28.6139,77.209,Sunday,21,4,Low,Mixed,8.86,School,2025,low Risk
+22,Chennai,13.0827,80.2707,Wednesday,3,4,High,Commercial,1.67,ATM,2025,low Risk
+23,Hyderabad,17.385,78.4867,Thursday,16,7,Medium,Mixed,9.14,Unknown,2025,Medium Risk
+24,Hyderabad,17.385,78.4867,Wednesday,20,8,Medium,Residential,3.8,Bar,2025,Medium Risk
+25,Delhi,28.6139,77.209,Friday,19,11,High,Commercial,0.29,School,2024,High Risk
+26,Hyderabad,17.385,78.4867,Thursday,7,3,Low,Residential,8.79,ATM,2025,low Risk
+27,Mumbai,19.076,72.8777,Wednesday,23,2,Very High,Residential,9.78,Mall,2024,low Risk
+28,Bengaluru,12.9716,77.5946,Sunday,4,10,Very High,Mixed,1.73,Mall,2025,High Risk
+29,Pune,18.5204,73.8567,Thursday,6,6,Medium,Mixed,3.19,Unknown,2025,Medium Risk
+30,Chennai,13.0827,80.2707,Sunday,14,9,Very High,Residential,2.55,ATM,2025,Medium Risk
+31,Chennai,13.0827,80.2707,Tuesday,0,6,Medium,Mixed,2.28,ATM,2025,Medium Risk
+32,Delhi,28.6139,77.209,Sunday,7,10,Low,Residential,8.61,ATM,2024,High Risk
+33,Kolkata,22.5726,88.3639,Wednesday,8,10,Very High,Residential,5.44,Unknown,2024,High Risk
+34,Jaipur,26.9124,75.7873,Wednesday,7,14,Very High,Commercial,1.99,ATM,2024,High Risk
+35,Pune,18.5204,73.8567,Friday,11,3,Very High,Commercial,4.72,Unknown,2025,low Risk
+36,Delhi,28.6139,77.209,Wednesday,21,5,Low,Residential,4.09,School,2025,Medium Risk
+37,Mumbai,19.076,72.8777,Sunday,7,7,Medium,Residential,5.41,Bar,2024,Medium Risk
+38,Pune,18.5204,73.8567,Saturday,5,8,High,Commercial,2.57,ATM,2024,Medium Risk
+39,Jaipur,26.9124,75.7873,Thursday,17,3,Low,Residential,6.56,Mall,2024,low Risk
+40,Delhi,28.6139,77.209,Thursday,2,7,Medium,Residential,4.12,Park,2025,Medium Risk
+41,Kolkata,22.5726,88.3639,Sunday,12,10,Low,Residential,3.85,Park,2024,High Risk
+42,Hyderabad,17.385,78.4867,Thursday,14,2,High,Commercial,7.0,Unknown,2024,low Risk
+43,Jaipur,26.9124,75.7873,Wednesday,4,5,Medium,Commercial,2.26,ATM,2025,Medium Risk
+44,Delhi,28.6139,77.209,Tuesday,23,6,High,Residential,0.6,Park,2024,Medium Risk
+45,Bengaluru,12.9716,77.5946,Friday,1,6,Low,Residential,0.78,ATM,2024,Medium Risk
+46,Kolkata,22.5726,88.3639,Thursday,12,7,Low,Mixed,2.54,Mall,2024,Medium Risk
+47,Delhi,28.6139,77.209,Tuesday,19,7,Low,Commercial,6.61,Mall,2025,Medium Risk
+48,Chennai,13.0827,80.2707,Monday,8,3,Medium,Mixed,7.19,Bar,2024,low Risk
+49,Hyderabad,17.385,78.4867,Monday,12,5,Medium,Mixed,6.49,Park,2025,Medium Risk
+50,Chennai,13.0827,80.2707,Monday,2,12,Low,Commercial,6.25,Mall,2024,High Risk
+51,Mumbai,19.076,72.8777,Friday,2,10,Medium,Mixed,2.73,School,2024,High Risk
+52,Mumbai,19.076,72.8777,Monday,7,4,High,Commercial,1.66,Mall,2025,low Risk
+53,Hyderabad,17.385,78.4867,Friday,19,12,Low,Mixed,8.19,School,2024,High Risk
+54,Mumbai,19.076,72.8777,Sunday,4,6,High,Residential,8.91,Unknown,2024,Medium Risk
+55,Bengaluru,12.9716,77.5946,Wednesday,8,4,High,Mixed,2.19,School,2025,low Risk
+56,Kolkata,22.5726,88.3639,Friday,21,5,High,Mixed,4.94,ATM,2024,Medium Risk
+57,Mumbai,19.076,72.8777,Saturday,20,11,Very High,Commercial,0.54,School,2025,High Risk
+58,Bengaluru,12.9716,77.5946,Tuesday,20,3,High,Residential,7.44,Mall,2024,low Risk
+59,Pune,18.5204,73.8567,Sunday,17,3,Low,Residential,0.84,Unknown,2024,low Risk
+60,Bengaluru,12.9716,77.5946,Friday,17,9,Low,Commercial,5.87,Bar,2025,Medium Risk
+61,Pune,18.5204,73.8567,Wednesday,4,6,Low,Commercial,3.71,ATM,2025,Medium Risk
+62,Chennai,13.0827,80.2707,Tuesday,6,9,Medium,Mixed,1.12,Mall,2025,Medium Risk
+63,Pune,18.5204,73.8567,Monday,19,9,Medium,Residential,8.66,Bar,2024,Medium Risk
+64,Pune,18.5204,73.8567,Saturday,0,16,Medium,Mixed,9.25,Park,2024,High Risk
+65,Kolkata,22.5726,88.3639,Saturday,8,5,Medium,Mixed,1.17,ATM,2024,Medium Risk
+66,Jaipur,26.9124,75.7873,Wednesday,7,7,Medium,Commercial,3.56,Bar,2024,Medium Risk
+67,Kolkata,22.5726,88.3639,Monday,0,13,Medium,Commercial,3.35,ATM,2024,High Risk
+68,Hyderabad,17.385,78.4867,Saturday,11,10,Very High,Mixed,9.81,Mall,2025,High Risk
+69,Chennai,13.0827,80.2707,Tuesday,0,5,Low,Commercial,1.87,School,2025,Medium Risk
+70,Delhi,28.6139,77.209,Monday,3,3,Very High,Commercial,7.31,School,2025,low Risk
+71,Pune,18.5204,73.8567,Tuesday,19,11,Low,Commercial,9.01,Bar,2025,High Risk
+72,Hyderabad,17.385,78.4867,Sunday,1,8,Very High,Residential,5.25,Mall,2024,Medium Risk
+73,Kolkata,22.5726,88.3639,Wednesday,11,3,Very High,Residential,9.49,School,2025,low Risk
+74,Chennai,13.0827,80.2707,Tuesday,21,4,Low,Mixed,9.01,Mall,2024,low Risk
+75,Hyderabad,17.385,78.4867,Tuesday,21,5,Very High,Commercial,4.08,School,2024,Medium Risk
+76,Bengaluru,12.9716,77.5946,Friday,6,3,Very High,Mixed,9.41,Unknown,2024,low Risk
+77,Bengaluru,12.9716,77.5946,Tuesday,19,6,High,Commercial,5.52,ATM,2024,Medium Risk
+78,Hyderabad,17.385,78.4867,Saturday,9,6,Medium,Commercial,7.88,Mall,2024,Medium Risk
+79,Chennai,13.0827,80.2707,Friday,14,8,Very High,Commercial,6.79,Mall,2024,Medium Risk
+80,Jaipur,26.9124,75.7873,Saturday,23,7,Medium,Mixed,0.94,Mall,2024,Medium Risk
+81,Chennai,13.0827,80.2707,Tuesday,2,5,Medium,Mixed,3.17,Bar,2024,Medium Risk
+82,Bengaluru,12.9716,77.5946,Monday,0,7,Low,Residential,9.84,Mall,2025,Medium Risk
+83,Mumbai,19.076,72.8777,Thursday,14,6,Very High,Mixed,5.8,Unknown,2025,Medium Risk
+84,Pune,18.5204,73.8567,Sunday,15,8,Very High,Residential,1.56,Unknown,2024,Medium Risk
+85,Delhi,28.6139,77.209,Wednesday,3,4,Very High,Residential,1.84,Unknown,2024,low Risk
+86,Jaipur,26.9124,75.7873,Thursday,1,6,Medium,Residential,4.62,Park,2025,Medium Risk
+87,Chennai,13.0827,80.2707,Sunday,14,10,Very High,Mixed,4.51,Bar,2024,High Risk
+88,Jaipur,26.9124,75.7873,Sunday,14,6,High,Residential,8.41,School,2025,Medium Risk
+89,Jaipur,26.9124,75.7873,Thursday,20,6,Medium,Commercial,4.45,Unknown,2024,Medium Risk
+90,Hyderabad,17.385,78.4867,Friday,7,5,High,Commercial,3.27,Mall,2024,Medium Risk
+91,Mumbai,19.076,72.8777,Tuesday,4,10,Medium,Residential,3.89,Bar,2025,High Risk
+92,Kolkata,22.5726,88.3639,Sunday,2,7,Very High,Commercial,3.38,Park,2024,Medium Risk
+93,Pune,18.5204,73.8567,Sunday,1,7,Medium,Commercial,3.96,Mall,2024,Medium Risk
+94,Delhi,28.6139,77.209,Wednesday,18,9,Very High,Commercial,0.16,School,2025,Medium Risk
+95,Hyderabad,17.385,78.4867,Saturday,12,9,Very High,Mixed,7.5,Mall,2024,Medium Risk
+96,Kolkata,22.5726,88.3639,Tuesday,15,9,Medium,Commercial,4.41,ATM,2024,Medium Risk
+97,Pune,18.5204,73.8567,Thursday,10,8,Very High,Mixed,1.73,Park,2025,Medium Risk
+98,Bengaluru,12.9716,77.5946,Tuesday,19,8,Low,Commercial,5.96,Unknown,2024,Medium Risk
+99,Delhi,28.6139,77.209,Thursday,2,7,Very High,Residential,8.68,Bar,2024,Medium Risk
+100,Delhi,28.6139,77.209,Monday,8,9,Very High,Commercial,2.2,School,2025,Medium Risk
+101,Chennai,13.0827,80.2707,Wednesday,12,8,High,Commercial,2.6,ATM,2025,Medium Risk
+102,Jaipur,26.9124,75.7873,Friday,0,8,Low,Commercial,2.32,ATM,2024,Medium Risk
+103,Delhi,28.6139,77.209,Monday,0,3,Medium,Residential,8.41,Mall,2024,low Risk
+104,Bengaluru,12.9716,77.5946,Friday,7,8,Medium,Commercial,6.73,Mall,2025,Medium Risk
+105,Kolkata,22.5726,88.3639,Wednesday,14,7,High,Commercial,1.76,Mall,2024,Medium Risk
+106,Mumbai,19.076,72.8777,Sunday,5,4,High,Residential,5.83,School,2024,low Risk
+107,Pune,18.5204,73.8567,Monday,12,5,Medium,Residential,5.96,Unknown,2024,Medium Risk
+108,Kolkata,22.5726,88.3639,Saturday,3,5,High,Mixed,6.04,ATM,2024,Medium Risk
+109,Delhi,28.6139,77.209,Monday,11,7,Very High,Mixed,3.77,Mall,2024,Medium Risk
+110,Chennai,13.0827,80.2707,Wednesday,0,7,Very High,Commercial,1.14,School,2024,Medium Risk
+111,Jaipur,26.9124,75.7873,Thursday,22,4,Medium,Commercial,1.84,Mall,2024,low Risk
+112,Hyderabad,17.385,78.4867,Wednesday,19,4,Very High,Commercial,4.41,Unknown,2024,low Risk
+113,Hyderabad,17.385,78.4867,Friday,10,5,Medium,Residential,2.86,Park,2025,Medium Risk
+114,Kolkata,22.5726,88.3639,Wednesday,14,9,Very High,Commercial,0.38,School,2024,Medium Risk
+115,Bengaluru,12.9716,77.5946,Friday,15,2,Medium,Commercial,8.0,School,2024,low Risk
+116,Hyderabad,17.385,78.4867,Monday,19,8,High,Mixed,0.2,Bar,2024,Medium Risk
+117,Mumbai,19.076,72.8777,Saturday,7,8,Very High,Commercial,5.6,Bar,2025,Medium Risk
+118,Jaipur,26.9124,75.7873,Saturday,20,6,Very High,Commercial,7.95,ATM,2024,Medium Risk
+119,Hyderabad,17.385,78.4867,Tuesday,7,8,Very High,Mixed,2.51,Unknown,2025,Medium Risk
+120,Chennai,13.0827,80.2707,Monday,15,4,High,Commercial,9.97,Mall,2024,low Risk
+121,Chennai,13.0827,80.2707,Wednesday,11,4,Very High,Commercial,3.14,Bar,2024,low Risk
+122,Mumbai,19.076,72.8777,Sunday,23,9,Medium,Commercial,1.28,Mall,2024,Medium Risk
+123,Bengaluru,12.9716,77.5946,Thursday,6,4,Medium,Mixed,4.89,Unknown,2024,low Risk
+124,Hyderabad,17.385,78.4867,Thursday,3,7,Medium,Commercial,2.35,Bar,2024,Medium Risk
+125,Hyderabad,17.385,78.4867,Monday,0,6,Medium,Commercial,0.55,ATM,2024,Medium Risk
+126,Hyderabad,17.385,78.4867,Sunday,22,6,Medium,Mixed,8.7,Park,2024,Medium Risk
+127,Mumbai,19.076,72.8777,Saturday,0,8,High,Commercial,4.84,School,2024,Medium Risk
+128,Bengaluru,12.9716,77.5946,Saturday,1,5,High,Commercial,1.23,ATM,2024,Medium Risk
+129,Pune,18.5204,73.8567,Friday,15,12,Low,Mixed,6.33,ATM,2024,High Risk
+130,Bengaluru,12.9716,77.5946,Wednesday,4,8,High,Residential,9.94,ATM,2024,Medium Risk
+131,Pune,18.5204,73.8567,Friday,19,10,Medium,Mixed,3.87,Park,2025,High Risk
+132,Hyderabad,17.385,78.4867,Wednesday,18,4,Very High,Commercial,5.73,ATM,2025,low Risk
+133,Mumbai,19.076,72.8777,Friday,6,6,Medium,Commercial,6.64,Bar,2024,Medium Risk
+134,Kolkata,22.5726,88.3639,Monday,5,6,Low,Residential,0.13,Park,2024,Medium Risk
+135,Jaipur,26.9124,75.7873,Wednesday,9,16,Low,Residential,2.95,School,2024,High Risk
+136,Jaipur,26.9124,75.7873,Wednesday,2,4,Medium,Commercial,7.9,Unknown,2024,low Risk
+137,Kolkata,22.5726,88.3639,Sunday,13,1,Low,Mixed,2.33,Bar,2025,low Risk
+138,Hyderabad,17.385,78.4867,Friday,4,8,Low,Residential,1.74,School,2025,Medium Risk
+139,Hyderabad,17.385,78.4867,Sunday,14,11,Low,Commercial,6.92,Unknown,2024,High Risk
+140,Pune,18.5204,73.8567,Saturday,8,5,Very High,Commercial,0.9,ATM,2025,Medium Risk
+141,Pune,18.5204,73.8567,Sunday,23,10,High,Mixed,2.58,ATM,2024,High Risk
+142,Kolkata,22.5726,88.3639,Thursday,21,6,Low,Mixed,8.23,Mall,2024,Medium Risk
+143,Delhi,28.6139,77.209,Wednesday,5,9,Very High,Mixed,6.55,School,2024,Medium Risk
+144,Bengaluru,12.9716,77.5946,Thursday,18,6,Very High,Mixed,8.16,ATM,2024,Medium Risk
+145,Jaipur,26.9124,75.7873,Saturday,11,14,Very High,Commercial,3.28,ATM,2024,High Risk
+146,Bengaluru,12.9716,77.5946,Friday,10,8,Very High,Mixed,5.01,Unknown,2024,Medium Risk
+147,Pune,18.5204,73.8567,Monday,17,8,Low,Commercial,0.97,School,2024,Medium Risk
+148,Chennai,13.0827,80.2707,Wednesday,3,8,Very High,Mixed,8.27,ATM,2025,Medium Risk
+149,Jaipur,26.9124,75.7873,Saturday,13,9,Low,Residential,5.23,Mall,2025,Medium Risk
+150,Jaipur,26.9124,75.7873,Friday,20,6,Very High,Residential,2.12,Mall,2025,Medium Risk
+151,Bengaluru,12.9716,77.5946,Monday,9,7,Very High,Mixed,4.9,ATM,2024,Medium Risk
+152,Kolkata,22.5726,88.3639,Wednesday,22,9,Medium,Commercial,5.55,Mall,2024,Medium Risk
+153,Pune,18.5204,73.8567,Tuesday,2,8,Medium,Residential,4.67,ATM,2024,Medium Risk
+154,Bengaluru,12.9716,77.5946,Thursday,15,10,High,Mixed,7.08,Park,2024,High Risk
+155,Jaipur,26.9124,75.7873,Monday,15,6,Medium,Commercial,5.56,Park,2024,Medium Risk
+156,Kolkata,22.5726,88.3639,Thursday,19,7,Medium,Residential,2.83,Park,2024,Medium Risk
+157,Chennai,13.0827,80.2707,Monday,16,8,High,Residential,2.9,School,2024,Medium Risk
+158,Jaipur,26.9124,75.7873,Monday,4,6,Very High,Mixed,4.89,School,2024,Medium Risk
+159,Pune,18.5204,73.8567,Tuesday,14,1,High,Residential,9.81,Bar,2025,low Risk
+160,Pune,18.5204,73.8567,Saturday,7,7,Very High,Residential,3.25,Park,2025,Medium Risk
+161,Pune,18.5204,73.8567,Friday,12,5,Medium,Commercial,9.65,Bar,2024,Medium Risk
+162,Chennai,13.0827,80.2707,Monday,3,4,Very High,Residential,5.31,Park,2024,low Risk
+163,Delhi,28.6139,77.209,Saturday,23,3,Medium,Commercial,8.72,Bar,2024,low Risk
+164,Mumbai,19.076,72.8777,Thursday,15,6,High,Commercial,6.27,Park,2024,Medium Risk
+165,Mumbai,19.076,72.8777,Thursday,10,4,Very High,Commercial,6.31,Park,2024,low Risk
+166,Delhi,28.6139,77.209,Tuesday,19,9,Low,Residential,6.35,School,2024,Medium Risk
+167,Kolkata,22.5726,88.3639,Saturday,23,8,Low,Commercial,9.79,Unknown,2025,Medium Risk
+168,Mumbai,19.076,72.8777,Wednesday,14,6,Medium,Mixed,3.06,ATM,2024,Medium Risk
+169,Delhi,28.6139,77.209,Friday,10,11,Low,Commercial,3.65,Park,2024,High Risk
+170,Bengaluru,12.9716,77.5946,Friday,7,6,Very High,Mixed,6.85,Bar,2025,Medium Risk
+171,Bengaluru,12.9716,77.5946,Thursday,5,7,Low,Mixed,8.72,Mall,2025,Medium Risk
+172,Kolkata,22.5726,88.3639,Tuesday,15,11,Medium,Residential,4.67,School,2025,High Risk
+173,Jaipur,26.9124,75.7873,Saturday,8,8,Low,Commercial,9.02,Unknown,2025,Medium Risk
+174,Bengaluru,12.9716,77.5946,Monday,2,8,Very High,Commercial,9.88,School,2024,Medium Risk
+175,Pune,18.5204,73.8567,Tuesday,22,7,High,Commercial,8.47,Bar,2024,Medium Risk
+176,Pune,18.5204,73.8567,Sunday,15,8,Low,Residential,3.88,School,2024,Medium Risk
+177,Hyderabad,17.385,78.4867,Thursday,22,7,High,Residential,9.78,Unknown,2024,Medium Risk
+178,Pune,18.5204,73.8567,Friday,8,4,Low,Mixed,8.66,Unknown,2024,low Risk
+179,Delhi,28.6139,77.209,Tuesday,19,6,Very High,Commercial,7.78,Bar,2024,Medium Risk
+180,Chennai,13.0827,80.2707,Sunday,7,5,Medium,Mixed,2.58,Unknown,2025,Medium Risk
+181,Bengaluru,12.9716,77.5946,Thursday,20,8,Low,Mixed,6.5,School,2024,Medium Risk
+182,Jaipur,26.9124,75.7873,Friday,1,7,High,Mixed,1.4,School,2025,Medium Risk
+183,Chennai,13.0827,80.2707,Thursday,23,10,Very High,Residential,2.09,Mall,2025,High Risk
+184,Chennai,13.0827,80.2707,Friday,16,10,High,Residential,2.64,Park,2025,High Risk
+185,Hyderabad,17.385,78.4867,Saturday,23,15,High,Residential,4.74,ATM,2024,High Risk
+186,Bengaluru,12.9716,77.5946,Wednesday,7,3,Very High,Mixed,3.72,Park,2024,low Risk
+187,Delhi,28.6139,77.209,Tuesday,8,7,Low,Commercial,3.75,Unknown,2024,Medium Risk
+188,Hyderabad,17.385,78.4867,Thursday,18,8,Very High,Mixed,9.41,ATM,2024,Medium Risk
+189,Kolkata,22.5726,88.3639,Monday,15,10,Low,Mixed,8.85,Mall,2024,High Risk
+190,Chennai,13.0827,80.2707,Thursday,19,3,Medium,Mixed,0.73,Park,2024,low Risk
+191,Hyderabad,17.385,78.4867,Tuesday,20,5,Very High,Residential,1.48,ATM,2024,Medium Risk
+192,Hyderabad,17.385,78.4867,Saturday,15,7,Low,Residential,2.42,Mall,2024,Medium Risk
+193,Bengaluru,12.9716,77.5946,Friday,12,6,Very High,Commercial,6.74,Unknown,2025,Medium Risk
+194,Pune,18.5204,73.8567,Sunday,18,9,Medium,Commercial,6.58,Park,2024,Medium Risk
+195,Pune,18.5204,73.8567,Sunday,8,11,Low,Mixed,3.77,Park,2024,High Risk
+196,Jaipur,26.9124,75.7873,Thursday,7,7,High,Residential,9.81,School,2024,Medium Risk
+197,Chennai,13.0827,80.2707,Saturday,1,6,Very High,Commercial,1.98,ATM,2025,Medium Risk
+198,Jaipur,26.9124,75.7873,Saturday,2,5,Medium,Mixed,6.43,ATM,2024,Medium Risk
+199,Delhi,28.6139,77.209,Friday,10,10,Medium,Residential,7.89,Bar,2024,High Risk
+200,Mumbai,19.076,72.8777,Tuesday,17,5,Medium,Mixed,2.24,Bar,2025,Medium Risk
+201,Chennai,13.0827,80.2707,Monday,4,5,Low,Commercial,8.6,Bar,2024,Medium Risk
+202,Bengaluru,12.9716,77.5946,Tuesday,17,8,High,Residential,1.19,ATM,2024,Medium Risk
+203,Bengaluru,12.9716,77.5946,Wednesday,0,9,High,Residential,5.93,ATM,2024,Medium Risk
+204,Bengaluru,12.9716,77.5946,Saturday,8,5,Low,Residential,7.44,Mall,2024,Medium Risk
+205,Mumbai,19.076,72.8777,Thursday,23,11,Low,Commercial,4.54,School,2024,High Risk
+206,Mumbai,19.076,72.8777,Saturday,14,8,Medium,Mixed,0.53,Unknown,2024,Medium Risk
+207,Hyderabad,17.385,78.4867,Wednesday,14,6,Low,Residential,9.99,Park,2025,Medium Risk
+208,Pune,18.5204,73.8567,Tuesday,21,10,Low,Commercial,7.15,Park,2025,High Risk
+209,Mumbai,19.076,72.8777,Thursday,2,9,High,Mixed,1.57,Bar,2025,Medium Risk
+210,Hyderabad,17.385,78.4867,Sunday,19,11,High,Commercial,9.95,Mall,2025,High Risk
+211,Hyderabad,17.385,78.4867,Monday,14,4,Very High,Residential,7.95,ATM,2025,low Risk
+212,Kolkata,22.5726,88.3639,Friday,13,5,Very High,Residential,4.2,Park,2024,Medium Risk
+213,Pune,18.5204,73.8567,Monday,13,6,Low,Commercial,4.32,Unknown,2024,Medium Risk
+214,Hyderabad,17.385,78.4867,Tuesday,11,5,Medium,Mixed,9.24,ATM,2024,Medium Risk
+215,Mumbai,19.076,72.8777,Wednesday,2,6,Low,Commercial,1.06,Unknown,2024,Medium Risk
+216,Chennai,13.0827,80.2707,Thursday,4,4,Low,Mixed,9.57,Mall,2024,low Risk
+217,Chennai,13.0827,80.2707,Monday,21,10,Low,Commercial,3.6,Unknown,2025,High Risk
+218,Pune,18.5204,73.8567,Wednesday,23,5,Low,Commercial,6.04,School,2024,Medium Risk
+219,Mumbai,19.076,72.8777,Wednesday,18,4,Medium,Residential,6.6,Bar,2024,low Risk
+220,Mumbai,19.076,72.8777,Friday,11,3,High,Residential,7.65,Mall,2024,low Risk
+221,Kolkata,22.5726,88.3639,Thursday,13,9,Low,Mixed,9.3,Unknown,2024,Medium Risk
+222,Hyderabad,17.385,78.4867,Wednesday,0,7,Medium,Commercial,7.06,School,2024,Medium Risk
+223,Chennai,13.0827,80.2707,Monday,11,9,Low,Residential,8.71,Mall,2024,Medium Risk
+224,Pune,18.5204,73.8567,Tuesday,2,9,Medium,Mixed,6.37,ATM,2024,Medium Risk
+225,Mumbai,19.076,72.8777,Wednesday,23,4,Medium,Commercial,4.26,School,2024,low Risk
+226,Bengaluru,12.9716,77.5946,Friday,11,3,High,Mixed,3.31,Mall,2024,low Risk
+227,Mumbai,19.076,72.8777,Monday,1,8,Medium,Residential,7.57,ATM,2024,Medium Risk
+228,Mumbai,19.076,72.8777,Monday,8,4,Very High,Mixed,4.3,Mall,2025,low Risk
+229,Jaipur,26.9124,75.7873,Thursday,13,6,High,Residential,7.57,ATM,2025,Medium Risk
+230,Chennai,13.0827,80.2707,Monday,13,5,Low,Commercial,6.81,Mall,2024,Medium Risk
+231,Jaipur,26.9124,75.7873,Sunday,16,12,High,Residential,2.28,Mall,2025,High Risk
+232,Delhi,28.6139,77.209,Tuesday,0,7,Medium,Commercial,9.46,Bar,2025,Medium Risk
+233,Hyderabad,17.385,78.4867,Sunday,9,14,High,Residential,0.18,Unknown,2024,High Risk
+234,Pune,18.5204,73.8567,Thursday,5,5,Medium,Commercial,5.37,Bar,2024,Medium Risk
+235,Chennai,13.0827,80.2707,Monday,2,11,Very High,Mixed,0.52,ATM,2024,High Risk
+236,Jaipur,26.9124,75.7873,Saturday,2,5,High,Mixed,4.35,Park,2025,Medium Risk
+237,Pune,18.5204,73.8567,Thursday,9,7,Low,Commercial,0.31,School,2024,Medium Risk
+238,Bengaluru,12.9716,77.5946,Thursday,19,6,Very High,Mixed,9.21,ATM,2024,Medium Risk
+239,Pune,18.5204,73.8567,Monday,3,6,Medium,Commercial,5.93,Mall,2024,Medium Risk
+240,Mumbai,19.076,72.8777,Saturday,12,10,High,Mixed,3.46,School,2025,High Risk
+241,Bengaluru,12.9716,77.5946,Sunday,2,3,Low,Mixed,5.15,School,2025,low Risk
+242,Chennai,13.0827,80.2707,Thursday,23,5,Medium,Residential,1.12,School,2025,Medium Risk
+243,Kolkata,22.5726,88.3639,Sunday,5,9,Medium,Mixed,0.85,Unknown,2024,Medium Risk
+244,Jaipur,26.9124,75.7873,Wednesday,14,7,Very High,Mixed,9.25,Mall,2024,Medium Risk
+245,Chennai,13.0827,80.2707,Monday,20,8,High,Residential,4.45,Park,2024,Medium Risk
+246,Jaipur,26.9124,75.7873,Tuesday,20,9,High,Commercial,5.96,School,2024,Medium Risk
+247,Mumbai,19.076,72.8777,Saturday,9,3,Very High,Commercial,0.47,School,2024,low Risk
+248,Hyderabad,17.385,78.4867,Tuesday,2,9,Low,Mixed,5.98,Park,2024,Medium Risk
+249,Jaipur,26.9124,75.7873,Tuesday,18,6,Low,Commercial,9.1,Mall,2025,Medium Risk
+250,Kolkata,22.5726,88.3639,Wednesday,10,9,Very High,Mixed,1.59,ATM,2024,Medium Risk
+251,Jaipur,26.9124,75.7873,Saturday,3,5,High,Mixed,0.93,Unknown,2025,Medium Risk
+252,Bengaluru,12.9716,77.5946,Sunday,1,6,Medium,Mixed,4.43,Park,2024,Medium Risk
+253,Bengaluru,12.9716,77.5946,Wednesday,11,5,High,Commercial,3.94,School,2025,Medium Risk
+254,Delhi,28.6139,77.209,Tuesday,20,6,High,Residential,3.36,Mall,2025,Medium Risk
+255,Pune,18.5204,73.8567,Saturday,9,8,High,Mixed,8.53,Mall,2024,Medium Risk
+256,Bengaluru,12.9716,77.5946,Saturday,10,5,Low,Mixed,6.67,School,2024,Medium Risk
+257,Hyderabad,17.385,78.4867,Sunday,20,7,Very High,Residential,5.99,ATM,2024,Medium Risk
+258,Hyderabad,17.385,78.4867,Saturday,17,8,Very High,Mixed,7.94,Bar,2025,Medium Risk
+259,Mumbai,19.076,72.8777,Tuesday,20,7,Very High,Mixed,3.68,School,2024,Medium Risk
+260,Hyderabad,17.385,78.4867,Monday,5,4,Medium,Commercial,9.48,Park,2025,low Risk
+261,Kolkata,22.5726,88.3639,Thursday,7,11,Medium,Residential,0.86,ATM,2024,High Risk
+262,Delhi,28.6139,77.209,Wednesday,21,5,High,Mixed,1.4,Park,2024,Medium Risk
+263,Bengaluru,12.9716,77.5946,Sunday,5,12,Medium,Mixed,7.73,Bar,2024,High Risk
+264,Jaipur,26.9124,75.7873,Saturday,1,10,Very High,Commercial,6.8,Bar,2025,High Risk
+265,Jaipur,26.9124,75.7873,Saturday,19,6,High,Mixed,7.86,Bar,2025,Medium Risk
+266,Kolkata,22.5726,88.3639,Sunday,9,9,Very High,Residential,3.74,Mall,2024,Medium Risk
+267,Jaipur,26.9124,75.7873,Saturday,14,3,High,Commercial,5.08,Park,2024,low Risk
+268,Bengaluru,12.9716,77.5946,Monday,6,9,Medium,Commercial,0.62,Park,2025,Medium Risk
+269,Chennai,13.0827,80.2707,Thursday,17,9,Low,Mixed,8.47,ATM,2024,Medium Risk
+270,Hyderabad,17.385,78.4867,Wednesday,2,5,Medium,Commercial,4.55,Mall,2025,Medium Risk
+271,Bengaluru,12.9716,77.5946,Tuesday,13,11,Low,Residential,8.19,School,2025,High Risk
+272,Delhi,28.6139,77.209,Thursday,13,6,Low,Commercial,5.07,Bar,2025,Medium Risk
+273,Pune,18.5204,73.8567,Sunday,2,5,High,Residential,0.38,ATM,2024,Medium Risk
+274,Chennai,13.0827,80.2707,Tuesday,4,11,Medium,Residential,2.94,Park,2025,High Risk
+275,Bengaluru,12.9716,77.5946,Tuesday,22,8,Very High,Commercial,6.19,ATM,2025,Medium Risk
+276,Delhi,28.6139,77.209,Friday,8,8,Medium,Residential,5.53,Unknown,2024,Medium Risk
+277,Pune,18.5204,73.8567,Tuesday,3,9,High,Residential,3.08,ATM,2024,Medium Risk
+278,Kolkata,22.5726,88.3639,Wednesday,13,3,Very High,Residential,1.2,Park,2024,low Risk
+279,Delhi,28.6139,77.209,Saturday,20,8,Medium,Mixed,1.52,Park,2025,Medium Risk
+280,Delhi,28.6139,77.209,Saturday,19,5,High,Residential,5.75,Bar,2025,Medium Risk
+281,Mumbai,19.076,72.8777,Friday,16,8,High,Residential,9.54,Mall,2024,Medium Risk
+282,Delhi,28.6139,77.209,Sunday,12,13,Very High,Residential,6.39,School,2024,High Risk
+283,Hyderabad,17.385,78.4867,Sunday,23,7,Low,Commercial,7.91,School,2024,Medium Risk
+284,Kolkata,22.5726,88.3639,Wednesday,23,8,Low,Mixed,7.38,School,2025,Medium Risk
+285,Bengaluru,12.9716,77.5946,Wednesday,1,3,High,Mixed,3.45,Unknown,2024,low Risk
+286,Bengaluru,12.9716,77.5946,Friday,21,7,Very High,Mixed,4.84,Bar,2025,Medium Risk
+287,Bengaluru,12.9716,77.5946,Sunday,2,1,Very High,Residential,3.01,ATM,2024,low Risk
+288,Kolkata,22.5726,88.3639,Wednesday,1,2,High,Commercial,5.2,Mall,2024,low Risk
+289,Jaipur,26.9124,75.7873,Tuesday,8,7,Low,Mixed,1.99,School,2024,Medium Risk
+290,Delhi,28.6139,77.209,Friday,20,8,High,Commercial,1.33,School,2024,Medium Risk
+291,Pune,18.5204,73.8567,Sunday,12,11,Very High,Commercial,3.46,Bar,2024,High Risk
+292,Jaipur,26.9124,75.7873,Friday,22,3,Very High,Commercial,9.25,Mall,2024,low Risk
+293,Hyderabad,17.385,78.4867,Thursday,2,6,Very High,Residential,4.36,Bar,2024,Medium Risk
+294,Hyderabad,17.385,78.4867,Sunday,10,4,Low,Residential,3.35,School,2024,low Risk
+295,Hyderabad,17.385,78.4867,Saturday,14,6,Very High,Residential,6.93,School,2025,Medium Risk
+296,Jaipur,26.9124,75.7873,Monday,1,8,High,Mixed,9.98,School,2024,Medium Risk
+297,Delhi,28.6139,77.209,Monday,2,3,Very High,Commercial,5.18,Unknown,2024,low Risk
+298,Bengaluru,12.9716,77.5946,Thursday,0,4,Medium,Mixed,6.81,Park,2024,low Risk
+299,Delhi,28.6139,77.209,Sunday,4,14,Low,Residential,7.81,School,2024,High Risk
+300,Chennai,13.0827,80.2707,Tuesday,12,8,Low,Mixed,1.62,Park,2025,Medium Risk
+301,Chennai,13.0827,80.2707,Monday,11,4,Very High,Residential,5.78,Mall,2024,low Risk
+302,Chennai,13.0827,80.2707,Friday,12,6,High,Mixed,2.86,ATM,2025,Medium Risk
+303,Delhi,28.6139,77.209,Saturday,23,8,Medium,Commercial,5.23,Mall,2025,Medium Risk
+304,Mumbai,19.076,72.8777,Tuesday,8,4,High,Mixed,4.52,Mall,2025,low Risk
+305,Hyderabad,17.385,78.4867,Saturday,22,4,Very High,Residential,1.31,ATM,2024,low Risk
+306,Jaipur,26.9124,75.7873,Saturday,5,11,Very High,Residential,8.12,School,2024,High Risk
+307,Chennai,13.0827,80.2707,Monday,22,9,Low,Mixed,5.47,School,2024,Medium Risk
+308,Bengaluru,12.9716,77.5946,Tuesday,22,4,Medium,Commercial,5.14,ATM,2024,low Risk
+309,Kolkata,22.5726,88.3639,Wednesday,4,8,Medium,Commercial,0.36,Mall,2024,Medium Risk
+310,Chennai,13.0827,80.2707,Thursday,14,7,Medium,Mixed,8.85,ATM,2024,Medium Risk
+311,Hyderabad,17.385,78.4867,Tuesday,12,10,Very High,Mixed,4.17,Park,2024,High Risk
+312,Mumbai,19.076,72.8777,Thursday,4,11,High,Mixed,0.83,Park,2025,High Risk
+313,Chennai,13.0827,80.2707,Tuesday,4,13,Medium,Residential,4.38,ATM,2024,High Risk
+314,Mumbai,19.076,72.8777,Friday,16,7,Medium,Commercial,1.73,School,2025,Medium Risk
+315,Kolkata,22.5726,88.3639,Friday,11,8,High,Residential,2.58,Unknown,2024,Medium Risk
+316,Hyderabad,17.385,78.4867,Saturday,4,6,High,Mixed,5.38,Mall,2024,Medium Risk
+317,Bengaluru,12.9716,77.5946,Friday,18,8,Medium,Residential,6.62,Unknown,2024,Medium Risk
+318,Chennai,13.0827,80.2707,Saturday,18,8,Low,Residential,0.9,Unknown,2025,Medium Risk
+319,Hyderabad,17.385,78.4867,Wednesday,20,4,Medium,Mixed,4.22,Unknown,2024,low Risk
+320,Delhi,28.6139,77.209,Monday,15,6,High,Mixed,9.57,Park,2024,Medium Risk
+321,Kolkata,22.5726,88.3639,Thursday,21,5,Very High,Commercial,4.59,Unknown,2024,Medium Risk
+322,Delhi,28.6139,77.209,Saturday,5,8,Very High,Commercial,4.89,Bar,2024,Medium Risk
+323,Chennai,13.0827,80.2707,Thursday,19,9,Medium,Commercial,8.63,School,2025,Medium Risk
+324,Chennai,13.0827,80.2707,Monday,12,9,Medium,Commercial,5.2,ATM,2025,Medium Risk
+325,Chennai,13.0827,80.2707,Sunday,7,5,Very High,Residential,2.75,Bar,2024,Medium Risk
+326,Bengaluru,12.9716,77.5946,Thursday,3,4,Low,Commercial,9.46,Mall,2024,low Risk
+327,Pune,18.5204,73.8567,Saturday,7,4,Medium,Commercial,9.34,Unknown,2025,low Risk
+328,Chennai,13.0827,80.2707,Sunday,6,2,Medium,Commercial,9.96,Park,2024,low Risk
+329,Jaipur,26.9124,75.7873,Saturday,9,6,Very High,Residential,0.99,Park,2024,Medium Risk
+330,Jaipur,26.9124,75.7873,Wednesday,7,10,Medium,Mixed,3.59,ATM,2025,High Risk
+331,Hyderabad,17.385,78.4867,Monday,15,2,Very High,Commercial,5.41,ATM,2024,low Risk
+332,Pune,18.5204,73.8567,Thursday,4,10,High,Mixed,3.72,Park,2024,High Risk
+333,Chennai,13.0827,80.2707,Sunday,1,8,Very High,Residential,5.75,Bar,2024,Medium Risk
+334,Chennai,13.0827,80.2707,Monday,17,11,High,Residential,3.92,Park,2025,High Risk
+335,Hyderabad,17.385,78.4867,Tuesday,19,7,Low,Residential,9.75,Park,2024,Medium Risk
+336,Chennai,13.0827,80.2707,Thursday,10,4,High,Residential,2.07,Mall,2024,low Risk
+337,Pune,18.5204,73.8567,Monday,16,4,Low,Residential,0.49,Unknown,2024,low Risk
+338,Chennai,13.0827,80.2707,Sunday,15,2,Very High,Residential,6.1,Mall,2024,low Risk
+339,Bengaluru,12.9716,77.5946,Saturday,10,5,High,Residential,3.99,Mall,2024,Medium Risk
+340,Hyderabad,17.385,78.4867,Saturday,18,10,High,Mixed,8.3,Mall,2024,High Risk
+341,Jaipur,26.9124,75.7873,Saturday,22,4,High,Commercial,8.18,School,2024,low Risk
+342,Chennai,13.0827,80.2707,Friday,21,5,Low,Commercial,5.88,Unknown,2025,Medium Risk
+343,Delhi,28.6139,77.209,Tuesday,19,9,Very High,Commercial,9.67,Mall,2025,Medium Risk
+344,Kolkata,22.5726,88.3639,Tuesday,23,4,Low,Mixed,4.86,Mall,2024,low Risk
+345,Pune,18.5204,73.8567,Thursday,4,9,Medium,Residential,5.77,Unknown,2024,Medium Risk
+346,Mumbai,19.076,72.8777,Friday,6,6,Low,Commercial,3.21,Bar,2024,Medium Risk
+347,Pune,18.5204,73.8567,Friday,22,8,Medium,Commercial,5.07,Mall,2024,Medium Risk
+348,Jaipur,26.9124,75.7873,Thursday,23,5,Low,Mixed,1.47,Bar,2024,Medium Risk
+349,Chennai,13.0827,80.2707,Monday,21,8,Very High,Mixed,3.83,Bar,2024,Medium Risk
+350,Jaipur,26.9124,75.7873,Wednesday,17,6,High,Mixed,3.61,Unknown,2024,Medium Risk
+351,Hyderabad,17.385,78.4867,Monday,19,7,Very High,Residential,9.58,School,2025,Medium Risk
+352,Hyderabad,17.385,78.4867,Friday,7,10,High,Commercial,7.08,Unknown,2025,High Risk
+353,Jaipur,26.9124,75.7873,Monday,10,13,Very High,Commercial,5.65,Unknown,2024,High Risk
+354,Hyderabad,17.385,78.4867,Wednesday,9,6,Low,Mixed,6.8,Park,2024,Medium Risk
+355,Pune,18.5204,73.8567,Thursday,11,3,Medium,Commercial,0.52,Unknown,2024,low Risk
+356,Mumbai,19.076,72.8777,Wednesday,11,7,Very High,Mixed,2.64,Park,2024,Medium Risk
+357,Kolkata,22.5726,88.3639,Saturday,6,7,High,Mixed,6.99,Bar,2024,Medium Risk
+358,Mumbai,19.076,72.8777,Monday,19,11,Medium,Residential,0.6,Mall,2024,High Risk
+359,Kolkata,22.5726,88.3639,Tuesday,20,6,Medium,Residential,1.09,School,2025,Medium Risk
+360,Jaipur,26.9124,75.7873,Saturday,3,2,Medium,Residential,9.65,Bar,2024,low Risk
+361,Pune,18.5204,73.8567,Wednesday,20,13,Very High,Commercial,6.54,School,2025,High Risk
+362,Chennai,13.0827,80.2707,Saturday,9,8,Low,Residential,6.56,Bar,2025,Medium Risk
+363,Delhi,28.6139,77.209,Saturday,5,5,Very High,Residential,9.35,ATM,2025,Medium Risk
+364,Pune,18.5204,73.8567,Tuesday,15,9,Medium,Mixed,9.63,School,2024,Medium Risk
+365,Delhi,28.6139,77.209,Sunday,0,3,High,Mixed,6.07,School,2024,low Risk
+366,Hyderabad,17.385,78.4867,Saturday,14,5,Very High,Residential,8.53,Park,2024,Medium Risk
+367,Hyderabad,17.385,78.4867,Thursday,6,2,Low,Commercial,1.71,Park,2025,low Risk
+368,Hyderabad,17.385,78.4867,Tuesday,22,11,Medium,Residential,7.39,School,2024,High Risk
+369,Kolkata,22.5726,88.3639,Wednesday,5,11,Very High,Commercial,5.2,ATM,2024,High Risk
+370,Pune,18.5204,73.8567,Wednesday,21,6,Low,Residential,9.82,Park,2025,Medium Risk
+371,Chennai,13.0827,80.2707,Friday,7,11,Low,Commercial,3.9,Park,2025,High Risk
+372,Hyderabad,17.385,78.4867,Saturday,10,12,High,Mixed,7.26,ATM,2024,High Risk
+373,Hyderabad,17.385,78.4867,Wednesday,20,7,High,Mixed,2.44,Unknown,2025,Medium Risk
+374,Mumbai,19.076,72.8777,Friday,14,5,High,Residential,4.11,Mall,2025,Medium Risk
+375,Hyderabad,17.385,78.4867,Thursday,22,8,Low,Mixed,9.17,School,2024,Medium Risk
+376,Chennai,13.0827,80.2707,Wednesday,19,7,Medium,Residential,9.58,Park,2025,Medium Risk
+377,Bengaluru,12.9716,77.5946,Monday,14,8,High,Commercial,7.05,Park,2025,Medium Risk
+378,Kolkata,22.5726,88.3639,Saturday,7,5,Low,Mixed,4.52,Unknown,2025,Medium Risk
+379,Chennai,13.0827,80.2707,Monday,2,7,Low,Residential,8.3,Mall,2025,Medium Risk
+380,Kolkata,22.5726,88.3639,Sunday,18,8,Medium,Residential,3.35,Mall,2024,Medium Risk
+381,Jaipur,26.9124,75.7873,Thursday,3,7,Medium,Mixed,5.87,ATM,2024,Medium Risk
+382,Jaipur,26.9124,75.7873,Friday,1,7,Very High,Residential,5.18,Park,2024,Medium Risk
+383,Delhi,28.6139,77.209,Saturday,17,6,Very High,Mixed,8.09,Unknown,2025,Medium Risk
+384,Delhi,28.6139,77.209,Tuesday,12,6,High,Residential,7.48,Mall,2025,Medium Risk
+385,Mumbai,19.076,72.8777,Saturday,1,5,Very High,Commercial,7.03,Mall,2024,Medium Risk
+386,Delhi,28.6139,77.209,Friday,2,10,Very High,Residential,2.94,Bar,2024,High Risk
+387,Bengaluru,12.9716,77.5946,Sunday,20,9,Very High,Commercial,9.93,Park,2024,Medium Risk
+388,Jaipur,26.9124,75.7873,Friday,12,9,Very High,Residential,6.86,Unknown,2024,Medium Risk
+389,Bengaluru,12.9716,77.5946,Saturday,20,2,High,Residential,1.87,Mall,2025,low Risk
+390,Pune,18.5204,73.8567,Wednesday,16,6,Medium,Mixed,9.79,ATM,2024,Medium Risk
+391,Delhi,28.6139,77.209,Wednesday,9,6,Very High,Mixed,7.22,Park,2024,Medium Risk
+392,Pune,18.5204,73.8567,Wednesday,7,4,Medium,Commercial,3.53,School,2024,low Risk
+393,Kolkata,22.5726,88.3639,Sunday,23,5,Low,Residential,8.11,Park,2024,Medium Risk
+394,Delhi,28.6139,77.209,Saturday,7,12,Medium,Residential,1.1,ATM,2025,High Risk
+395,Jaipur,26.9124,75.7873,Sunday,19,6,Low,Residential,7.43,Park,2024,Medium Risk
+396,Jaipur,26.9124,75.7873,Sunday,7,11,Medium,Residential,1.49,School,2024,High Risk
+397,Kolkata,22.5726,88.3639,Friday,23,4,High,Mixed,6.02,Unknown,2025,low Risk
+398,Chennai,13.0827,80.2707,Tuesday,7,6,High,Residential,9.86,Mall,2024,Medium Risk
+399,Kolkata,22.5726,88.3639,Monday,13,4,High,Commercial,0.7,Mall,2024,low Risk
+400,Bengaluru,12.9716,77.5946,Wednesday,20,7,Very High,Mixed,5.01,School,2025,Medium Risk
+401,Pune,18.5204,73.8567,Monday,16,10,High,Mixed,4.22,Bar,2024,High Risk
+402,Hyderabad,17.385,78.4867,Wednesday,12,8,Medium,Mixed,4.79,Bar,2024,Medium Risk
+403,Hyderabad,17.385,78.4867,Friday,22,11,Medium,Commercial,9.16,Mall,2024,High Risk
+404,Pune,18.5204,73.8567,Wednesday,13,2,Medium,Commercial,2.5,Bar,2024,low Risk
+405,Chennai,13.0827,80.2707,Saturday,20,5,Low,Commercial,8.49,ATM,2024,Medium Risk
+406,Kolkata,22.5726,88.3639,Friday,1,5,High,Commercial,6.77,Mall,2025,Medium Risk
+407,Delhi,28.6139,77.209,Friday,2,5,Medium,Mixed,7.27,Mall,2024,Medium Risk
+408,Kolkata,22.5726,88.3639,Sunday,15,9,Medium,Commercial,3.1,ATM,2024,Medium Risk
+409,Kolkata,22.5726,88.3639,Thursday,6,7,Low,Mixed,10.0,Park,2024,Medium Risk
+410,Kolkata,22.5726,88.3639,Wednesday,22,6,Medium,Commercial,9.16,Mall,2025,Medium Risk
+411,Chennai,13.0827,80.2707,Wednesday,9,4,Very High,Commercial,5.38,School,2025,low Risk
+412,Hyderabad,17.385,78.4867,Tuesday,8,5,High,Mixed,8.84,Park,2024,Medium Risk
+413,Mumbai,19.076,72.8777,Thursday,23,12,Very High,Commercial,9.15,School,2024,High Risk
+414,Chennai,13.0827,80.2707,Friday,13,5,Low,Mixed,8.65,Unknown,2025,Medium Risk
+415,Bengaluru,12.9716,77.5946,Sunday,0,6,High,Mixed,9.35,Mall,2024,Medium Risk
+416,Pune,18.5204,73.8567,Sunday,9,8,Medium,Residential,3.37,Park,2024,Medium Risk
+417,Kolkata,22.5726,88.3639,Tuesday,15,6,High,Commercial,7.66,Park,2025,Medium Risk
+418,Jaipur,26.9124,75.7873,Monday,14,3,Medium,Mixed,7.97,Bar,2025,low Risk
+419,Bengaluru,12.9716,77.5946,Thursday,23,10,Very High,Residential,9.18,Mall,2024,High Risk
+420,Delhi,28.6139,77.209,Monday,16,13,Low,Residential,9.46,Unknown,2024,High Risk
+421,Delhi,28.6139,77.209,Thursday,0,6,Very High,Residential,8.44,Bar,2025,Medium Risk
+422,Mumbai,19.076,72.8777,Sunday,22,5,Medium,Residential,2.27,Park,2024,Medium Risk
+423,Chennai,13.0827,80.2707,Wednesday,1,11,Very High,Mixed,4.93,ATM,2024,High Risk
+424,Pune,18.5204,73.8567,Thursday,0,9,Low,Mixed,7.25,Mall,2024,Medium Risk
+425,Hyderabad,17.385,78.4867,Thursday,0,4,Very High,Residential,1.16,ATM,2024,low Risk
+426,Bengaluru,12.9716,77.5946,Tuesday,7,5,Medium,Mixed,5.31,School,2024,Medium Risk
+427,Hyderabad,17.385,78.4867,Wednesday,12,11,Low,Commercial,9.6,Park,2024,High Risk
+428,Kolkata,22.5726,88.3639,Tuesday,22,8,Medium,Commercial,6.87,ATM,2024,Medium Risk
+429,Delhi,28.6139,77.209,Sunday,2,3,Very High,Commercial,3.83,Park,2025,low Risk
+430,Delhi,28.6139,77.209,Friday,20,5,Low,Mixed,1.8,Park,2024,Medium Risk
+431,Pune,18.5204,73.8567,Saturday,20,10,High,Mixed,9.78,ATM,2025,High Risk
+432,Delhi,28.6139,77.209,Sunday,7,11,Medium,Mixed,8.89,Park,2024,High Risk
+433,Hyderabad,17.385,78.4867,Monday,1,10,Low,Mixed,9.26,Mall,2024,High Risk
+434,Delhi,28.6139,77.209,Saturday,5,8,High,Residential,9.62,Mall,2025,Medium Risk
+435,Bengaluru,12.9716,77.5946,Friday,22,7,Very High,Residential,3.06,Mall,2025,Medium Risk
+436,Kolkata,22.5726,88.3639,Sunday,18,11,Very High,Mixed,8.98,School,2025,High Risk
+437,Pune,18.5204,73.8567,Friday,23,5,Medium,Mixed,7.27,Mall,2024,Medium Risk
+438,Chennai,13.0827,80.2707,Wednesday,1,9,Low,Commercial,2.4,ATM,2024,Medium Risk
+439,Chennai,13.0827,80.2707,Tuesday,19,10,Very High,Commercial,0.39,School,2024,High Risk
+440,Jaipur,26.9124,75.7873,Thursday,15,7,Medium,Commercial,5.58,Park,2024,Medium Risk
+441,Pune,18.5204,73.8567,Tuesday,5,4,Very High,Residential,7.74,School,2024,low Risk
+442,Kolkata,22.5726,88.3639,Saturday,22,6,Low,Residential,2.75,Park,2024,Medium Risk
+443,Bengaluru,12.9716,77.5946,Monday,23,5,Very High,Commercial,3.67,ATM,2025,Medium Risk
+444,Delhi,28.6139,77.209,Sunday,9,4,Very High,Commercial,7.64,ATM,2025,low Risk
+445,Bengaluru,12.9716,77.5946,Tuesday,2,5,Medium,Commercial,4.54,Mall,2025,Medium Risk
+446,Pune,18.5204,73.8567,Friday,3,7,Low,Residential,3.6,ATM,2024,Medium Risk
+447,Chennai,13.0827,80.2707,Friday,12,6,Low,Commercial,4.2,ATM,2024,Medium Risk
+448,Kolkata,22.5726,88.3639,Sunday,18,8,Medium,Mixed,3.87,Bar,2024,Medium Risk
+449,Hyderabad,17.385,78.4867,Friday,9,11,High,Commercial,1.54,Bar,2025,High Risk
+450,Pune,18.5204,73.8567,Wednesday,8,8,Very High,Commercial,4.89,ATM,2025,Medium Risk
+451,Chennai,13.0827,80.2707,Saturday,8,8,Medium,Mixed,6.29,Mall,2024,Medium Risk
+452,Kolkata,22.5726,88.3639,Wednesday,14,6,Low,Residential,3.12,Park,2025,Medium Risk
+453,Chennai,13.0827,80.2707,Thursday,19,7,Very High,Commercial,4.46,Park,2024,Medium Risk
+454,Bengaluru,12.9716,77.5946,Sunday,9,8,High,Mixed,9.48,Bar,2024,Medium Risk
+455,Jaipur,26.9124,75.7873,Sunday,10,1,Medium,Commercial,9.69,School,2024,low Risk
+456,Jaipur,26.9124,75.7873,Saturday,18,7,Medium,Commercial,3.82,Park,2025,Medium Risk
+457,Chennai,13.0827,80.2707,Monday,3,5,Medium,Mixed,9.97,Bar,2024,Medium Risk
+458,Delhi,28.6139,77.209,Thursday,23,10,Very High,Mixed,2.18,School,2024,High Risk
+459,Mumbai,19.076,72.8777,Sunday,13,3,Very High,Residential,6.37,Bar,2024,low Risk
+460,Hyderabad,17.385,78.4867,Saturday,21,7,Medium,Mixed,4.29,Park,2025,Medium Risk
+461,Mumbai,19.076,72.8777,Tuesday,14,4,Very High,Mixed,4.07,Mall,2025,low Risk
+462,Pune,18.5204,73.8567,Saturday,17,4,Low,Commercial,7.05,Mall,2024,low Risk
+463,Mumbai,19.076,72.8777,Wednesday,3,7,Medium,Mixed,6.68,Bar,2024,Medium Risk
+464,Delhi,28.6139,77.209,Wednesday,18,7,Very High,Commercial,9.66,Park,2024,Medium Risk
+465,Mumbai,19.076,72.8777,Sunday,0,5,Low,Commercial,2.3,Unknown,2024,Medium Risk
+466,Kolkata,22.5726,88.3639,Tuesday,14,12,High,Commercial,4.68,Unknown,2024,High Risk
+467,Bengaluru,12.9716,77.5946,Thursday,11,7,Low,Commercial,1.14,Park,2025,Medium Risk
+468,Mumbai,19.076,72.8777,Sunday,3,6,Medium,Commercial,3.19,Park,2025,Medium Risk
+469,Kolkata,22.5726,88.3639,Wednesday,16,4,Very High,Commercial,4.81,Park,2024,low Risk
+470,Jaipur,26.9124,75.7873,Sunday,10,9,Low,Commercial,0.54,Unknown,2025,Medium Risk
+471,Mumbai,19.076,72.8777,Wednesday,0,5,High,Mixed,1.18,Bar,2024,Medium Risk
+472,Kolkata,22.5726,88.3639,Monday,16,10,Medium,Mixed,1.69,Mall,2025,High Risk
+473,Pune,18.5204,73.8567,Wednesday,14,7,Medium,Commercial,6.33,Bar,2024,Medium Risk
+474,Pune,18.5204,73.8567,Friday,12,5,Low,Mixed,6.18,Bar,2025,Medium Risk
+475,Jaipur,26.9124,75.7873,Saturday,18,12,Very High,Commercial,0.14,Bar,2025,High Risk
+476,Kolkata,22.5726,88.3639,Wednesday,8,7,Low,Mixed,1.11,Mall,2025,Medium Risk
+477,Bengaluru,12.9716,77.5946,Sunday,11,4,High,Residential,4.63,School,2024,low Risk
+478,Jaipur,26.9124,75.7873,Friday,16,8,High,Mixed,3.95,Park,2024,Medium Risk
+479,Mumbai,19.076,72.8777,Tuesday,11,4,High,Commercial,6.21,Unknown,2025,low Risk
+480,Hyderabad,17.385,78.4867,Friday,19,9,Low,Mixed,1.43,ATM,2024,Medium Risk
+481,Kolkata,22.5726,88.3639,Monday,9,5,Low,Residential,3.8,Bar,2024,Medium Risk
+482,Pune,18.5204,73.8567,Thursday,13,9,Medium,Mixed,3.9,Bar,2024,Medium Risk
+483,Jaipur,26.9124,75.7873,Wednesday,20,6,Medium,Mixed,1.75,School,2025,Medium Risk
+484,Bengaluru,12.9716,77.5946,Sunday,5,7,High,Commercial,6.23,School,2025,Medium Risk
+485,Delhi,28.6139,77.209,Saturday,15,6,Medium,Residential,8.17,Mall,2025,Medium Risk
+486,Jaipur,26.9124,75.7873,Saturday,13,7,Very High,Commercial,7.13,Park,2024,Medium Risk
+487,Jaipur,26.9124,75.7873,Monday,5,6,Low,Mixed,0.41,Bar,2024,Medium Risk
+488,Hyderabad,17.385,78.4867,Wednesday,1,6,High,Residential,5.42,Bar,2024,Medium Risk
+489,Jaipur,26.9124,75.7873,Sunday,18,14,Very High,Mixed,5.16,Mall,2025,High Risk
+490,Mumbai,19.076,72.8777,Friday,8,10,High,Mixed,8.24,ATM,2025,High Risk
+491,Jaipur,26.9124,75.7873,Monday,17,5,Medium,Commercial,1.11,Unknown,2024,Medium Risk
+492,Kolkata,22.5726,88.3639,Saturday,9,5,Low,Commercial,2.7,ATM,2024,Medium Risk
+493,Jaipur,26.9124,75.7873,Sunday,3,8,Medium,Residential,8.13,Mall,2025,Medium Risk
+494,Chennai,13.0827,80.2707,Monday,22,7,Very High,Residential,6.2,Bar,2025,Medium Risk
+495,Kolkata,22.5726,88.3639,Saturday,1,7,High,Mixed,2.88,Mall,2025,Medium Risk
+496,Bengaluru,12.9716,77.5946,Sunday,10,2,High,Commercial,5.77,Mall,2024,low Risk
+497,Mumbai,19.076,72.8777,Saturday,4,4,Very High,Residential,9.93,Unknown,2024,low Risk
+498,Bengaluru,12.9716,77.5946,Tuesday,22,7,Medium,Residential,1.55,School,2025,Medium Risk
+499,Kolkata,22.5726,88.3639,Saturday,21,3,Very High,Commercial,1.51,Unknown,2025,low Risk
